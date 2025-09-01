@@ -8,7 +8,7 @@
 
 --------
 
-## [모던 C++ 챌린지](./ModenCplusplus/readme.md)
+## [모던 C++ 챌린지](ModernCplusplus/readme.md)
 
 
 
