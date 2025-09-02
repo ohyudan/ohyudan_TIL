@@ -29,7 +29,7 @@ template <typename T> Answer01<T>::Answer01(T number) : problem(number) {
 }
 
 template <typename T> void Answer01<T>::printProblem() const {
-  std::cout << "3이나 5로 나누어 떨어지는 자연수의 합을 계산하는 프로그램"
+  std::cout << "1.3이나 5로 나누어 떨어지는 자연수의 합을 계산하는 프로그램"
             << std::endl;
 }
 

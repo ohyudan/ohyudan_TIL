@@ -35,7 +35,7 @@ Answer02<T>::Answer02(T number1, T number2)
 }
 
 template <typename T> void Answer02<T>::printProblem() const {
-  std::cout << "최대공약수 프로그램 구현하기" << std::endl;
+  std::cout << "2.최대공약수 프로그램 구현하기" << std::endl;
 }
 
 template <typename T> void Answer02<T>::printAnswer() const {
