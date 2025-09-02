@@ -21,7 +21,7 @@ public:
 
     void solve();
 
-    bool isPrime(T number1);
+    static bool isPrime(T number1);
 
 private:
     T problem1;
@@ -36,7 +36,7 @@ Answer04<T>::Answer04(T number1) :
 
 template<typename T>
 void Answer04<T>::printProblem() const {
-    std::cout << "주어진 수보다 작은 가장 큰 소수를 계산하는 프로그램 구현하기" << std::endl;
+    std::cout << "4.주어진 수보다 작은 가장 큰 소수를 계산하는 프로그램 구현하기" << std::endl;
 }
 
 template<typename T>
